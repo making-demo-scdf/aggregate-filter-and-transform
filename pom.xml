@@ -5,7 +5,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>aggregate-filter-and-transform</artifactId>
-	<version>0.1.0-dev4</version>
+	<version>0.1.0-dev5</version>
 	<packaging>jar</packaging>
 
 	<name>aggregate-filter-and-transform</name>
