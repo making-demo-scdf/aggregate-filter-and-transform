@@ -5,7 +5,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>aggregate-filter-and-transform</artifactId>
-	<version>0.1.0-dev3</version>
+	<version>0.1.0-dev4</version>
 	<packaging>jar</packaging>
 
 	<name>aggregate-filter-and-transform</name>
@@ -39,7 +39,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud.stream.app</groupId>
-			<artifactId>twitterstream-source-rabbit</artifactId>
+			<artifactId>http-source-rabbit</artifactId>
 			<version>1.0.4.RELEASE</version>
 		</dependency>
 		<dependency>
