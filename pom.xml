@@ -5,7 +5,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>aggregate-filter-and-transform</artifactId>
-	<version>0.1.0-dev2</version>
+	<version>0.1.0-dev3</version>
 	<packaging>jar</packaging>
 
 	<name>aggregate-filter-and-transform</name>
@@ -64,7 +64,7 @@
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-dependencies</artifactId>
-				<version>Camden.SR2</version>
+				<version>Brixton.SR6</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
